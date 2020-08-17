@@ -2,7 +2,6 @@
   <library name="newrelic-api">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/target/newrelic/newrelic-api.jar!/" />
-      <root url="jar://$PROJECT_DIR$/target/newrelic/newrelic.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
